@@ -46,6 +46,7 @@ Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 - <img src="https://www.pathofexile.com/favicon.ico" width="16" height="16"> [Official Trade Site](https://www.pathofexile.com/trade) – Game's built-in trading system.
 - 🌐 [PoE Ninja](https://poe.ninja) – Economy overview and price tracker.
 - <img src="https://poe2scout.com/favicon.ico" width="16" height="16"> [PoE 2 Scout](https://poe2scout.com/) – Tool to track market prices.
+- 🌐 [Divine Tendies](https://divinetendies.com) – Hourly Currency Exchange flip scanner with gold fees baked in and step-by-step playbooks.
 
 ---
 
